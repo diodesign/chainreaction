@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This is an animated illustration of uranium-235 nuclear fission chain reactions, written in JavaScript using [p5.js](https://p5js.org/). The aim is to demonstrate the exponential nature of these reactions as well as the mechanics of splitting atoms to produce neutrons that split more atoms, which produce more neutrons, and so on, releasing energy at every stage.
 
